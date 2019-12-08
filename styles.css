@@ -1,0 +1,25 @@
+.new-album-button {
+    display:flex;
+    background-color: lightblue;
+}
+
+
+.flex-container1 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .style1 {
+    display: flex;
+    align-items: center; 
+  }
+
+  .style2 {
+    display: flex;
+  }
+
+.search-img {
+    width: 20px;
+}
